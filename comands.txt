@@ -17,3 +17,12 @@ npm install lite-server --save-dev
 npm install font-awesome@4.7.0 --save     ----> para las fuentes 
 
 npm install bootstrap-social@5.1.1 --save
+
+git commands------------->
+
+git add -name of the document or file
+
+git commit -m "description"
+
+git push 
+
